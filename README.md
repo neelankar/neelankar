@@ -23,10 +23,10 @@ AI & ML Enthusiast, currently working in FinTech organization.
 
 ## Reach Me 
 <p align="center" float="left">
-  <a href="https://github.com/neelankar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </br>
-<img alt="Twitter" src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /> </br>
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"/> </br>
-<img alt="Blog" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=blogger&logoColor=white" /> <br>
+  <a href="https://github.com/neelankar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://twitter.com/neelankarjindal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /></a>
+ <a href="https://www.linkedin.com/in/neelankar-jindal-992091127/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"/> </a>
+ <a href="" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=blogger&logoColor=white" /> </a>
 </p>
 
 <p align= "center">
