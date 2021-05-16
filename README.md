@@ -15,8 +15,6 @@ Skills: Python / Big Data / ML / django / AWS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=neelankar)](https://github.com/neelankar/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelankar)](https://github.com/neelankar/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neelankar&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=neelankar)  
