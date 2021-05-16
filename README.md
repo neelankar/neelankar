@@ -31,16 +31,14 @@ AI & ML Enthusiast, currently working in FinTech organization.
 
 <p align= "center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neelankar&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neelankar)  
-
-![Profile views](https://gpvc.arturio.dev/neelankar)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=neelankar&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neelankar)  
 </p>
 
+
+### <img align="center" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Thought's:
 <p align="center">
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Thought's:
 <a href="https://github.com/marketplace/actions/quote-readme">
 • <i> “Everything has been figured out except how to live.”   </i>
 </a>
-
+![Profile views](https://gpvc.arturio.dev/neelankar)  
+</p>
