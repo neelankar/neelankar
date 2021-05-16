@@ -23,7 +23,7 @@ AI & ML Enthusiast, currently working in FinTech organization.
 
 ## Reach Me 
 <p align="center">
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> Collaborate on Github </br>
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" style="float: left;" /> Collaborate on Github </br>
 <img alt="Twitter" src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /> Follow on Twitter </br>
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"/> Connect on LinkedIn </br>
 <img alt="Blog" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=blogger&logoColor=white" /> Work In Progress<br>
@@ -34,7 +34,9 @@ AI & ML Enthusiast, currently working in FinTech organization.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neelankar&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neelankar)  
 </p>
 
-### <img align="center" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> ->Thought's: <-
+---
+
+### <img align="center" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Thought's: 
 <p align="center">
 <a href="https://github.com/marketplace/actions/quote-readme">
 • <i> “Everything has been figured out except how to live.”   </i>
