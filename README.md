@@ -9,17 +9,15 @@ AI & ML Enthusiast, currently working in FinTech organization.
 - 💬 Ask me about : Life / Python / Photography 
 - 📫 How to reach me: : LinkedIn 
 
-Skills: Python / Big Data / ML / django / AWS
-
 ## Technology / Tools 
 <p align="center">
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&logoColor=blue&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
-<a target="_blank"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon-AWS-%2312100E.svg?logo=amazon-aws&style=for-the-badge&logoColor=purple"/></a> 
+<a target="_blank"><img alt="Amazon AWS" src="https://img.shields.io/badge/amazon%20aws-%2312100E.svg?logo=amazon-aws&style=for-the-badge&logoColor=purple"/></a> 
 <a target="_blank"><img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-%2312100E.svg?logo=snowflake&logoColor=blue&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%2312100E.svg?logo=jupyter&logoColor=red&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Krita" src="https://img.shields.io/badge/Krita--%2312100E.svg?logo=krita&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Krita" src="https://img.shields.io/badge/Krita-%2312100E.svg?logo=krita&style=for-the-badge"/></a> 
   <a target="_blank"><img alt="Blender" src="https://img.shields.io/badge/Blender-%2312100E.svg?logo=blender&style=for-the-badge"/></a> 
 </p>
 
